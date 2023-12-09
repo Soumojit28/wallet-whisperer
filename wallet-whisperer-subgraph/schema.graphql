@@ -1,0 +1,6 @@
+type DiscordId @entity {
+  id: String!
+  tokenId: BigInt! # uint256
+  walletAddress: Bytes! # address
+  discordId: String! # uint256
+}

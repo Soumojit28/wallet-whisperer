@@ -1,0 +1,8 @@
+{
+  "scroll-sepolia": {
+    "Contract": {
+      "address": "0x6c096cD097F8bA0d9E7ec9cA11e75368c2eBE326",
+      "startBlock": 2538338
+    }
+  }
+}
