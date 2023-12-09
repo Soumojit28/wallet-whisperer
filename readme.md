@@ -1,3 +1,5 @@
+<img src="./images/logo.png" width="100" align="center">
+
 # 🤖 Wallet Whisperer
 ## 🌟 Project Tagline
 🔗 Seamlessly Message Wallets in Discord, Anonymously and Securely.
@@ -31,5 +33,12 @@
 ## 🔍 Subgraph URL
 🔗 https://api.studio.thegraph.com/query/27125/discordid/version/latest
 
+## 🏃‍♀️ Usage
+Invite the bot to your server using the link above or join our demo server at https://discord.gg/xREcjMJ2rp. You can use the bot directly in the server or DM it. Use the /register command to register your wallet address with the bot. You can then use the /message command to send messages to other users using their wallet addresses.
+
+Here is my wallet address: `0xe56c5F9693a15375a35fE82D75C80dba7f3acD6D`
+
 ## 📷 Screenshots
-[Please provide screenshots]
+![Screenshot](./images/scrnsht1.png)
+![Screenshot](./images/scrnsht2.png)
+
