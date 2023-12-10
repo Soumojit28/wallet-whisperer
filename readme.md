@@ -25,8 +25,10 @@
 ## 📜 Smart Contracts
 🔗 The contract used in this project is a proxy contract deployed on the Scroll Sepolia Blockchain.
 
-- Verified Contract Address (Proxy): https://sepolia.scrollscan.com/address/0x6c096cD097F8bA0d9E7ec9cA11e75368c2eBE326
-- Verified Contract Address (Implementation): https://sepolia.scrollscan.com/address/0xa123a22a3b83224a41767614a25f3f4790080d40#code
+- Verified Contract Address on scroll sepolia(Proxy): https://sepolia.scrollscan.com/address/0x6c096cD097F8bA0d9E7ec9cA11e75368c2eBE326
+- Verified Contract Address on scroll sepolia(Implementation): https://sepolia.scrollscan.com/address/0xa123a22a3b83224a41767614a25f3f4790080d40#code
+- Verified Contract on mantle testnet (Proxy): https://explorer.testnet.mantle.xyz/address/0x811c80CFFe21464CC3e665E7e052c688BF60C6d1/contracts#address-tabs
+- Verified Contract on mantle testnet (Implementation): https://explorer.testnet.mantle.xyz/address/0x93bb356Ae64b8A1e19B54DcB2A09C21dF1910Cfc/contracts#address-tabs
 ## 🤖 Bot Invite Link
 🔗 https://discord.com/api/oauth2/authorize?client_id=1183146553398022184&permissions=2048&scope=bot
 
